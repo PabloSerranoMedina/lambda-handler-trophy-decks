@@ -17,7 +17,8 @@ import random
 import csv
 
 #MySQL connection part
-engine = create_engine("mysql+pymysql://u901708261_pavlo:A3c1d5f7e2@pavloatlas.com/u901708261_trophy_decks")
+db_url = os.getenv("DATABASE_URL")
+engine = create_engine(db_url)
 
 
 def scrape_and_update_db():
