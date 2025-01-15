@@ -13,4 +13,4 @@ Skills:
 
 `API Integration` , `Serverless Architecture`
 
-To read more about this project go [here]([url](https://pavlatlas.notion.site/How-to-win-every-MTG-Arena-draft-Automated-Card-Deck-Data-Pipeline-17c9a8510c808027a55fe4d46d81d4ca?pvs=4))
+To read more about this project go [here](https://pavlatlas.notion.site/How-to-win-every-MTG-Arena-draft-Automated-Card-Deck-Data-Pipeline-17c9a8510c808027a55fe4d46d81d4ca?pvs=4)
